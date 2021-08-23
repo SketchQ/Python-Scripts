@@ -188,10 +188,6 @@ $RECYCLE.BIN/
 
 ## Dizinler :
 
-Python Beginner Guide/
-Automate the boring staff with Python/Text files
-Automate the boring staff with Python/files used in the book
-
 ## Dosya uzantıları : 
 
 *.pdf
@@ -205,4 +201,8 @@ Automate the boring staff with Python/files used in the book
 *.log
 *.ini 
 *.exe 
-
+*.bat
+*.json
+*.bak
+*.dat
+*.dir 
